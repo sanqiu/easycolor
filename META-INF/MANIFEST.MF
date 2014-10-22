@@ -1,0 +1,648 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi/banner.png
+SHA1-Digest: 9ynR5SZxZSz8x0omFv/3Uh7GGek=
+
+Name: res/drawable-hdpi/bt_4_02.png
+SHA1-Digest: BjnyAlITcMioNtOzRGejSPIH6IA=
+
+Name: res/layout-800x480/main.xml
+SHA1-Digest: 3p/jbVE6BQ0zcls7mqxEEaFHbU8=
+
+Name: res/layout-480x320/nine_item.xml
+SHA1-Digest: vY1o84oHTzJhElZYErwjjCut1EA=
+
+Name: res/drawable-hdpi/delete_01.png
+SHA1-Digest: DQlAcytSjGvsfqsJKJNOmzCMUdo=
+
+Name: res/layout/dslanrows.xml
+SHA1-Digest: 6yLwENmvxns49HHe1fpcMMsNczs=
+
+Name: res/layout-1024x600/btrows.xml
+SHA1-Digest: 7kGx9Hbd1dIdJKZae+zdIkuelmU=
+
+Name: res/layout-1024x600/setting.xml
+SHA1-Digest: xiy6o/hZeL7ezCIZed1qySS9eWg=
+
+Name: res/drawable-hdpi/bt_setting_01.png
+SHA1-Digest: MJcE3O23buBY0VbweFAGm6ztAz8=
+
+Name: res/drawable-hdpi/addbt_01.png
+SHA1-Digest: 39n2i9Plf/RoZJnEu24sDQ4E5sU=
+
+Name: res/drawable-hdpi/bt_8_01.png
+SHA1-Digest: d7RXldMPEl/HvHoEuTGAfI0wcB4=
+
+Name: res/drawable-hdpi/bt_7_02.png
+SHA1-Digest: lSjpKbe4qs2n7IxBxBKQw3VhxQg=
+
+Name: res/drawable-hdpi/gtp_lastpage_02.png
+SHA1-Digest: uZYnSRBZSo4ED8GAiMO8U1BnUZs=
+
+Name: res/drawable-hdpi/bt_7_01.png
+SHA1-Digest: WG/7RDGrhmffO7rgBa8X5ptJzTY=
+
+Name: res/drawable-hdpi/gtp_add_02.png
+SHA1-Digest: aA2SYMTkCSpPpYvLVcziE4IMKck=
+
+Name: res/layout-854x480/addbluetooth.xml
+SHA1-Digest: hjqsEcAyz8ksGl4SK0YU5klkqAA=
+
+Name: res/drawable-hdpi/bt_setting.xml
+SHA1-Digest: FfrkQTzwTK5qLZhIKrmgEKI0Y1I=
+
+Name: res/drawable-hdpi/gtp_lastpage.xml
+SHA1-Digest: omeDER7uH/sx9Kj9/i+pgDOGO2A=
+
+Name: res/layout-480x320/dswifirows.xml
+SHA1-Digest: ISdk1pbcfh/SbA9Br7lPzuGC/AI=
+
+Name: res/drawable-hdpi/btser01.png
+SHA1-Digest: UbwKgQSji7/EC2weR/Ko9xn8nlI=
+
+Name: res/layout-1024x600/nine_item.xml
+SHA1-Digest: vY1o84oHTzJhElZYErwjjCut1EA=
+
+Name: res/layout-800x480/searchbluetooth.xml
+SHA1-Digest: dDpzTzYBnDqZRno8M34x2JGbY40=
+
+Name: res/drawable-hdpi/bt_back_02.png
+SHA1-Digest: xHfNwbU5mD0MKDEDCTXZb3bEhqg=
+
+Name: res/drawable-hdpi/done_02.png
+SHA1-Digest: pZ0nTszfGkh9BlhiaIm2wRKcwB0=
+
+Name: res/drawable-hdpi/bt_star_02.png
+SHA1-Digest: /7aGQzxl9EBhjPJR7qtrlqhHQF4=
+
+Name: res/layout-480x320/searchwifi.xml
+SHA1-Digest: B/VFityjbct8bNS3bBRUhYqWuII=
+
+Name: res/layout-480x320/setting.xml
+SHA1-Digest: /x1UQ4Q3MjAdDF6GxJnR1b1k3KI=
+
+Name: res/drawable-hdpi/delete_02.png
+SHA1-Digest: vCQpa06EslPSz4Jhow6jTFbiEfk=
+
+Name: res/drawable-hdpi/bt_plus_02.png
+SHA1-Digest: qq46oS02CaVLhQWhpJHQoyPUd3c=
+
+Name: res/drawable-hdpi/bt_info.xml
+SHA1-Digest: qI6IO5fBGi1RQGXXt15dsEYAsWI=
+
+Name: res/layout/searchwifi.xml
+SHA1-Digest: B/VFityjbct8bNS3bBRUhYqWuII=
+
+Name: res/layout-480x320/devicesets.xml
+SHA1-Digest: JxcAEY4BKYWP5K0/7mykYWO6DF0=
+
+Name: res/drawable-hdpi/bt_5_01.png
+SHA1-Digest: 5uJx0GaV8EZtBxIWFdL2rwr01fI=
+
+Name: res/layout-854x480/devicesets.xml
+SHA1-Digest: ZBkXdRMkTbf5rTRPRb0mXLUiev0=
+
+Name: res/drawable-hdpi/bt_3_02.png
+SHA1-Digest: S0qnRtVv3ZCPkdN2H6L4JTso3ss=
+
+Name: res/drawable-hdpi/bt_1_02.png
+SHA1-Digest: 7z9OT1XpiwhAcr+JtYexE2YIDB0=
+
+Name: res/drawable-hdpi/bt_1.xml
+SHA1-Digest: 4gWcaBGh4eYyMG68WQqWBtmuFIs=
+
+Name: res/drawable-hdpi/btconn.xml
+SHA1-Digest: VO+vsNl/49P8GbuiPFOnitUG3j4=
+
+Name: res/layout-480x320/btrows.xml
+SHA1-Digest: 00jQ4RIOGggfWJY0Jbo9vueXzLo=
+
+Name: res/layout-1024x600/dialnumber.xml
+SHA1-Digest: uMh+3ASI6dSshEahGUsBKB4w+V4=
+
+Name: res/drawable-hdpi/bt_sun_02.png
+SHA1-Digest: wicrAobF3lupOqSNEZ/m9/8PZ6Q=
+
+Name: res/drawable-hdpi/bt_search.xml
+SHA1-Digest: jOzdR9RZRXNAIHJbNWITZFRL0sA=
+
+Name: res/drawable-hdpi/bt_turnback.xml
+SHA1-Digest: yzNL8agPN0CWNneVFdoZbkMnw1U=
+
+Name: res/drawable-hdpi/bt_6.xml
+SHA1-Digest: vYNeiSxFNHBEu5DXr2pNCaBEwvQ=
+
+Name: res/drawable-hdpi/bt_play_02.png
+SHA1-Digest: jXObMtuEy+5QSewQgClohxw1sAA=
+
+Name: res/drawable-hdpi/del_row.png
+SHA1-Digest: 6tlzT8py8456bjVKS/uJI8TDTq0=
+
+Name: res/drawable-hdpi/btconn_01.png
+SHA1-Digest: 0+xFX/4teFONleUN/fORoRox30I=
+
+Name: res/drawable-hdpi/red_sign.png
+SHA1-Digest: F5Ui8k2Ln/SUuwXzofpeg97Lue4=
+
+Name: res/drawable-hdpi/addbt.xml
+SHA1-Digest: I0Jgrqzm/3JYTYcpFunJ/bI2OdQ=
+
+Name: res/layout-854x480/dsbtrows.xml
+SHA1-Digest: LA/ceMKTuDpT0V03nW7mNya8Bn8=
+
+Name: res/layout/devicesets.xml
+SHA1-Digest: 13WbTJfHvy90Gu/+tIZbn/ukem8=
+
+Name: res/drawable-hdpi/bt_plus.xml
+SHA1-Digest: WcHPzzdU0ni9JLSypTJh8uKzTDs=
+
+Name: res/layout-854x480/dslanrows.xml
+SHA1-Digest: 6yLwENmvxns49HHe1fpcMMsNczs=
+
+Name: res/layout-1024x600/btconnecting.xml
+SHA1-Digest: DcvzzlEmmz2tIQNBF8Vf1YFsppA=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: fLsKgGidqVyXWMy7m4Yy7cZjBHY=
+
+Name: res/drawable-hdpi/bt_3_01.png
+SHA1-Digest: BlNZXEjWMjBh3ympebtnnw4WnzA=
+
+Name: res/drawable/bg_edittext.xml
+SHA1-Digest: mDAGu/w3kB0UZGgeCK6S+1PKats=
+
+Name: res/layout-800x480/btconnecting.xml
+SHA1-Digest: itY/u+dr9WjntBJuU1rcDWj+Zos=
+
+Name: res/drawable-hdpi/del_row_ver.png
+SHA1-Digest: k+VT5Y2JbA7uncRbA3QbCFa9oy4=
+
+Name: res/drawable/bg_edittext_normal.xml
+SHA1-Digest: XYvUvrEXc0MIb7IiHno+gknKOxE=
+
+Name: res/drawable-hdpi/gtp_lastpage_01.png
+SHA1-Digest: LOiwBRv9qxBJqAQ0repD3PDEJk4=
+
+Name: res/drawable-hdpi/gtp_add_01.png
+SHA1-Digest: gAM0ii8FKhSP90vF05DbI5Ikt/Y=
+
+Name: res/drawable-hdpi/bt_6_01.png
+SHA1-Digest: CTAezgsKsGPE3QLNbatwGoRvlSA=
+
+Name: res/layout-1024x600/devicesets.xml
+SHA1-Digest: o2b4nzJatBPcPMyzH2fPaCTsMm8=
+
+Name: res/drawable-hdpi/bt_info_htc.xml
+SHA1-Digest: 7LdO/SKrzf9sV9xGvqF47t1uxSM=
+
+Name: res/layout-854x480/dswifirows.xml
+SHA1-Digest: ISdk1pbcfh/SbA9Br7lPzuGC/AI=
+
+Name: res/layout/addbluetooth.xml
+SHA1-Digest: hjqsEcAyz8ksGl4SK0YU5klkqAA=
+
+Name: res/drawable-hdpi/bt_g_02.png
+SHA1-Digest: b6np3jR/d+KsChM+5Ot9+5K02E0=
+
+Name: res/drawable-hdpi/bt_r.xml
+SHA1-Digest: CajyCqgboOqvwMNsTILr9d1NzVM=
+
+Name: res/drawable/rounded_edittext.xml
+SHA1-Digest: LzBaPGJhY5vg0kDz4uYIt6XsEVA=
+
+Name: res/layout-800x480/nine_item.xml
+SHA1-Digest: vY1o84oHTzJhElZYErwjjCut1EA=
+
+Name: res/drawable-hdpi/bt_minus.xml
+SHA1-Digest: hFpem4PvVFZMGFj/OLGvUBuplW8=
+
+Name: res/drawable-hdpi/bt_play_03.png
+SHA1-Digest: MplqFywG3iBY9y71GT6JwZXAkRk=
+
+Name: res/layout-854x480/devicerow.xml
+SHA1-Digest: xvSGrhMYEx07IjAtgCPaKf7yEuA=
+
+Name: res/layout/devicerow.xml
+SHA1-Digest: xvSGrhMYEx07IjAtgCPaKf7yEuA=
+
+Name: res/layout/dialnumber.xml
+SHA1-Digest: lJJfwhtvRLYPoImtP2svXw7v8EI=
+
+Name: res/layout/device_connect_win.xml
+SHA1-Digest: IxnWWKMrZjcTd8Q2yBmf2sk4W/g=
+
+Name: res/drawable/dialog_style_xml_color.xml
+SHA1-Digest: RHkfh6UROWwGzDxBGF5+98HaQxQ=
+
+Name: res/layout-854x480/main.xml
+SHA1-Digest: cW7nzLRnLcRxEL/Yn2a60f0sRiE=
+
+Name: res/layout-854x480/dialnumber.xml
+SHA1-Digest: lJJfwhtvRLYPoImtP2svXw7v8EI=
+
+Name: res/drawable-hdpi/bt_g_01.png
+SHA1-Digest: 9wjlBcjnDkGjjRrCrpXiZXvIzB8=
+
+Name: res/layout-480x320/btconnecting.xml
+SHA1-Digest: itY/u+dr9WjntBJuU1rcDWj+Zos=
+
+Name: res/drawable-hdpi/diwen01.png
+SHA1-Digest: G6NOcmoPT/gdy2510ePihVjdaNQ=
+
+Name: res/layout-1024x600/main.xml
+SHA1-Digest: eJ3+qV521k7ZtBrhBXng5FQBbrE=
+
+Name: res/drawable-hdpi/gtp_edit_02.png
+SHA1-Digest: DbVxVA4nmnD1H1xFfbJxUvjCkHU=
+
+Name: res/drawable-hdpi/bt_2_02.png
+SHA1-Digest: bQnkEuqhgGxZ6orbVqicxKO+3DY=
+
+Name: res/layout-480x320/wifirows.xml
+SHA1-Digest: UBVcQ++M9HWTdqembK9NROlxsw8=
+
+Name: res/layout-1024x600/dswifirows.xml
+SHA1-Digest: 8bcmvO9nKTMMZJ7UxEszzR8DmX8=
+
+Name: res/drawable-hdpi/bt_r_02.png
+SHA1-Digest: r3caPvsgQirTR6Uy9rPMRNUyFLM=
+
+Name: res/drawable-hdpi/gtp_done.xml
+SHA1-Digest: IyYcv4Om82fXUHLYYpjLbPMuSNk=
+
+Name: res/drawable-hdpi/bt_info_01_htc.png
+SHA1-Digest: DYJjNESDLcpRf3oAmPdpRGzE3Mg=
+
+Name: res/layout-854x480/btrows.xml
+SHA1-Digest: 00jQ4RIOGggfWJY0Jbo9vueXzLo=
+
+Name: res/layout/dsbtrows.xml
+SHA1-Digest: LA/ceMKTuDpT0V03nW7mNya8Bn8=
+
+Name: res/layout-800x480/wifirows.xml
+SHA1-Digest: UBVcQ++M9HWTdqembK9NROlxsw8=
+
+Name: res/layout-800x480/btrows.xml
+SHA1-Digest: 00jQ4RIOGggfWJY0Jbo9vueXzLo=
+
+Name: res/drawable-hdpi/done_01.png
+SHA1-Digest: XuJDTNczjK0Mhe4ZCSCkbRRQvPE=
+
+Name: res/layout-1024x600/searchwifi.xml
+SHA1-Digest: 9x5VZfUfmXdCJSiM0lQ5UsBZFgc=
+
+Name: res/drawable-hdpi/bt_on_01.png
+SHA1-Digest: QsJQETEZqKc+JZNr9BTF1fqnI1c=
+
+Name: res/drawable-hdpi/btconn_02.png
+SHA1-Digest: w4ifzYYmjiBeHMSkMBAq8j/4KPw=
+
+Name: res/drawable-hdpi/search_01.png
+SHA1-Digest: mjh9jvsCfkdPOAmtDQuYe3KUgLw=
+
+Name: res/drawable-hdpi/delete.xml
+SHA1-Digest: TGhL8ecIPZdSV51NolQwf8Khg6g=
+
+Name: res/layout/searchdevicewin.xml
+SHA1-Digest: NfUZ098lMAmbjlOmB3U86lzGqCY=
+
+Name: res/drawable-hdpi/bt_b_02.png
+SHA1-Digest: 8qeWzQDqmG4zR2qa7VzBrOVIba8=
+
+Name: res/drawable-hdpi/bt_plus_01.png
+SHA1-Digest: rLC4jwVGGUlbAM1OVXEM0y0nmOc=
+
+Name: res/drawable-hdpi/delete_01_htc.png
+SHA1-Digest: dURluFAitCeJltn4VBtXRl1/JTg=
+
+Name: res/drawable-hdpi/bt_info_01.png
+SHA1-Digest: ETHzLd/UkXlj1Nnetx/Iigzo0xg=
+
+Name: res/drawable-hdpi/mbt_ring.png
+SHA1-Digest: Kw6mxEfvWfXAJUWd+o39VrGY7gE=
+
+Name: res/layout-480x320/main.xml
+SHA1-Digest: 9vNv6m9BbhHbNt+PZ2Ojqj+ryGo=
+
+Name: res/drawable-hdpi/bt_8_02.png
+SHA1-Digest: 9BrHpnfSM4+8MKTQv6yrY0oLiDs=
+
+Name: res/drawable-hdpi/gtp_nextpage.xml
+SHA1-Digest: nG2RnQ18onyS3UhBKbwQmS4HxJs=
+
+Name: res/drawable-hdpi/bt_back.xml
+SHA1-Digest: IwnHzp/+ALSeq0zNswffP07WqvU=
+
+Name: res/layout-480x320/dsbtrows.xml
+SHA1-Digest: LA/ceMKTuDpT0V03nW7mNya8Bn8=
+
+Name: res/drawable-hdpi/bt_on_02.png
+SHA1-Digest: S2yP1AgZoykV2qzWA1uzSDjAAMA=
+
+Name: res/layout/setting.xml
+SHA1-Digest: /x1UQ4Q3MjAdDF6GxJnR1b1k3KI=
+
+Name: res/drawable-hdpi/gtp_edit.xml
+SHA1-Digest: yg6THZP5oUzvecPf2R+skSNiV74=
+
+Name: res/layout-800x480/devicerow.xml
+SHA1-Digest: xvSGrhMYEx07IjAtgCPaKf7yEuA=
+
+Name: res/drawable-hdpi/p2pwifi.png
+SHA1-Digest: rOzlc3X3C2WttCUfpmfGPZuzWcw=
+
+Name: res/drawable-hdpi/wlan.png
+SHA1-Digest: /4elRp7GEEdWAbBp3GpLUoCE1xo=
+
+Name: res/layout-800x480/dswifirows.xml
+SHA1-Digest: ISdk1pbcfh/SbA9Br7lPzuGC/AI=
+
+Name: res/drawable-hdpi/gtp_add.xml
+SHA1-Digest: ma6SROFhkIEGAXvxpfRDYmPqrdo=
+
+Name: res/layout/information.xml
+SHA1-Digest: j+MLKGnY9iuVxPTXxMNh+Td0pHM=
+
+Name: res/drawable-hdpi/bt_sun.xml
+SHA1-Digest: RcpFh+yTqoT0fsqyVwx0RJLd9uw=
+
+Name: res/drawable-hdpi/bt_sun_01.png
+SHA1-Digest: Ff1168XSJSLdSunfTSsXdZOfGkg=
+
+Name: res/layout-800x480/dslanrows.xml
+SHA1-Digest: 6yLwENmvxns49HHe1fpcMMsNczs=
+
+Name: res/drawable-hdpi/bt_4.xml
+SHA1-Digest: lPdhPbAUXQxX+JxuSV+VKDOVKxs=
+
+Name: res/drawable-hdpi/bt_minus_02.png
+SHA1-Digest: nIObPDXnKUu6MhIZI/oVXXPHkbE=
+
+Name: res/drawable-hdpi/bt_b_01.png
+SHA1-Digest: nytx+UdoBqqXThsHcR2xeU9mEQ4=
+
+Name: res/drawable-hdpi/bt_w_02.png
+SHA1-Digest: yRmaRWHXD7ZKTLyu7EfP/lTCpC4=
+
+Name: res/drawable-hdpi/bt_1_01.png
+SHA1-Digest: n1EVH+PSq3GbkmJCVLbOX7aXiAU=
+
+Name: resources.arsc
+SHA1-Digest: Qk4lUNcdh9yzd6wRl2U4zVRe8TI=
+
+Name: res/drawable-hdpi/gtp_edit_01.png
+SHA1-Digest: DsKXho5ObbrSYflgFGMFj+QufQI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: gEluyim62sRu7D9JgMuXZbyN7oo=
+
+Name: res/drawable-hdpi/delete_02_htc.png
+SHA1-Digest: upDEnzk4jDEejiw5RXnGuU6sHp8=
+
+Name: res/layout/addwifi.xml
+SHA1-Digest: joIoG5EnSrEUFwLLFbBKRb+t7ZI=
+
+Name: res/layout-1024x600/devicerow.xml
+SHA1-Digest: xvSGrhMYEx07IjAtgCPaKf7yEuA=
+
+Name: res/drawable-hdpi/gtp_nextpage_01.png
+SHA1-Digest: 4hDH4NhOcqsbnW2jYerF7+LECGw=
+
+Name: res/layout-480x320/dslanrows.xml
+SHA1-Digest: 6yLwENmvxns49HHe1fpcMMsNczs=
+
+Name: res/drawable-hdpi/bt_6_02.png
+SHA1-Digest: c1HVefS2u9/Jj/8E+crfI1x8cyE=
+
+Name: res/drawable-hdpi/bt_5.xml
+SHA1-Digest: 1RiR6aTIEeEkmmo93UL8KS/czFQ=
+
+Name: res/layout-854x480/setting.xml
+SHA1-Digest: /x1UQ4Q3MjAdDF6GxJnR1b1k3KI=
+
+Name: res/layout-854x480/wifirows.xml
+SHA1-Digest: UBVcQ++M9HWTdqembK9NROlxsw8=
+
+Name: classes.dex
+SHA1-Digest: rHx4Y/o8uyqDvZEE0iCd02Uprbo=
+
+Name: res/drawable-hdpi/bt_3.xml
+SHA1-Digest: lrUYk7yhL8+YKCc7zq5LmpLjeY4=
+
+Name: res/drawable-hdpi/bt_delrow.xml
+SHA1-Digest: uobDSduQqfPpniuLvRSTnzQyy8s=
+
+Name: res/drawable-hdpi/done.xml
+SHA1-Digest: IyYcv4Om82fXUHLYYpjLbPMuSNk=
+
+Name: res/layout-480x320/addbluetooth.xml
+SHA1-Digest: hjqsEcAyz8ksGl4SK0YU5klkqAA=
+
+Name: res/drawable-hdpi/thedevice.png
+SHA1-Digest: fo4grDgNtq6UDnt5NaQ1Ci9V9m8=
+
+Name: res/layout-800x480/searchwifi.xml
+SHA1-Digest: B/VFityjbct8bNS3bBRUhYqWuII=
+
+Name: res/drawable-hdpi/bt_setting_02_htc.png
+SHA1-Digest: V5ApgTNGi4PAESMAsqbvTt7I0Vw=
+
+Name: res/drawable-hdpi/search_02.png
+SHA1-Digest: tgDbJJ2bmG9gPr8vJ5XZ7dMnzNU=
+
+Name: res/layout/searchbluetooth.xml
+SHA1-Digest: dDpzTzYBnDqZRno8M34x2JGbY40=
+
+Name: res/layout-480x320/devicerow.xml
+SHA1-Digest: xvSGrhMYEx07IjAtgCPaKf7yEuA=
+
+Name: res/layout-854x480/searchbluetooth.xml
+SHA1-Digest: dDpzTzYBnDqZRno8M34x2JGbY40=
+
+Name: res/drawable-hdpi/bt_back_01.png
+SHA1-Digest: 23d3x5fQcAcvGgZInTQdu1SuIqY=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 2rkSL0G49jVzirRLKI8SQSu9884=
+
+Name: res/layout/btrows.xml
+SHA1-Digest: 00jQ4RIOGggfWJY0Jbo9vueXzLo=
+
+Name: res/drawable-hdpi/bt_s_03.png
+SHA1-Digest: 9jM3toT7ha7HbbsP326MKnyiC7E=
+
+Name: res/drawable-hdpi/bt_setting_02.png
+SHA1-Digest: Kt0VuQGPW+sYHbSFWXDpVB9QYg4=
+
+Name: res/drawable-hdpi/bt_play_01.png
+SHA1-Digest: Fe05nFTmi6ewFPg54pHbkux6cPo=
+
+Name: res/layout-800x480/addbluetooth.xml
+SHA1-Digest: hjqsEcAyz8ksGl4SK0YU5klkqAA=
+
+Name: res/drawable-hdpi/bt_b.xml
+SHA1-Digest: VdHy34VblB68lvhndNTIPmEvj+E=
+
+Name: res/drawable-hdpi/bt_on.xml
+SHA1-Digest: CNN3kLyOXxYXHaNE3KL0MvRiaUc=
+
+Name: res/drawable-hdpi/initial_bg.png
+SHA1-Digest: kNisnQAT+fK0TJLr02CZbQBJssg=
+
+Name: res/drawable-hdpi/bt_s_02.png
+SHA1-Digest: DVp1XOwWiRfrAlDpN5wi0fcIlBg=
+
+Name: res/drawable-hdpi/gtp_nextpage_02.png
+SHA1-Digest: CaQ5eHqFr0Yirn3FBo8K7BAjw/o=
+
+Name: res/drawable-hdpi/bt_4_01.png
+SHA1-Digest: jfk0SERhkfPJ+J1rbqISY5qMtZE=
+
+Name: res/drawable-hdpi/bt_w_01.png
+SHA1-Digest: q9loV4mmBITpjofc7rakNnWvvwc=
+
+Name: res/layout-854x480/nine_item.xml
+SHA1-Digest: vY1o84oHTzJhElZYErwjjCut1EA=
+
+Name: res/layout/main.xml
+SHA1-Digest: 3p/jbVE6BQ0zcls7mqxEEaFHbU8=
+
+Name: res/drawable-hdpi/diwen02.png
+SHA1-Digest: HRy3Ro24hucQErfmHtPjLgcFaIk=
+
+Name: res/drawable-hdpi/bt_play.xml
+SHA1-Digest: Pgou6EQXj9Z0fM57rqla+LIC0vk=
+
+Name: res/layout-1024x600/addbluetooth.xml
+SHA1-Digest: 61ZKlhB1B00RksAfngEVrAwET/A=
+
+Name: res/drawable-hdpi/bt_info_02_htc.png
+SHA1-Digest: eOufADkCxDx8gNLsZK6Skz5nqcw=
+
+Name: res/drawable-hdpi/bt_7.xml
+SHA1-Digest: 621j33NsrAuZdMkOeakxdt9V4+Q=
+
+Name: res/layout-800x480/setting.xml
+SHA1-Digest: /x1UQ4Q3MjAdDF6GxJnR1b1k3KI=
+
+Name: res/drawable-hdpi/bt_2.xml
+SHA1-Digest: mqer8K2CUyzma4MnHPFjUOh9hKc=
+
+Name: res/drawable-hdpi/bt_g.xml
+SHA1-Digest: xenNgBlQ5mStB0IjAkql639Sv8w=
+
+Name: res/drawable-hdpi/turnback_02.png
+SHA1-Digest: zGPKUq9zqvqN17bJmEMs4ai9ah4=
+
+Name: res/layout-1024x600/dsbtrows.xml
+SHA1-Digest: Uv8dJesHjHyqXpUV2ABKQXE8SXo=
+
+Name: res/layout-800x480/dsbtrows.xml
+SHA1-Digest: LA/ceMKTuDpT0V03nW7mNya8Bn8=
+
+Name: res/drawable-hdpi/bt_setting_01_htc.png
+SHA1-Digest: dKgKQ+LOyjyLr9t38AWjNMX4bok=
+
+Name: res/drawable-hdpi/turnback_01.png
+SHA1-Digest: lBEdmDbSJY/JzNA8g0cXJggYqio=
+
+Name: res/layout-480x320/dialnumber.xml
+SHA1-Digest: lJJfwhtvRLYPoImtP2svXw7v8EI=
+
+Name: res/drawable-hdpi/bt_w.xml
+SHA1-Digest: l977G3QXARRqdoXaEzUDYCj1frE=
+
+Name: res/drawable-hdpi/gtp_bluetooth.png
+SHA1-Digest: 10WS+/HtGwDl5nkWaBMwqS+Bqxk=
+
+Name: res/drawable-hdpi/bt_star.xml
+SHA1-Digest: kHC/QNf91vmAnJXso9RTj2rvGNY=
+
+Name: res/drawable-hdpi/bt_setting_htc.xml
+SHA1-Digest: dcDSD4hDHfzGT3CgA4AWKj8kR00=
+
+Name: res/layout-854x480/searchwifi.xml
+SHA1-Digest: B/VFityjbct8bNS3bBRUhYqWuII=
+
+Name: res/layout-1024x600/wifirows.xml
+SHA1-Digest: UBVcQ++M9HWTdqembK9NROlxsw8=
+
+Name: res/layout-480x320/searchbluetooth.xml
+SHA1-Digest: dDpzTzYBnDqZRno8M34x2JGbY40=
+
+Name: res/layout-1024x600/dslanrows.xml
+SHA1-Digest: V7lMsYfG3/6YuBENA9RihotuWhY=
+
+Name: res/drawable-hdpi/main_bg.png
+SHA1-Digest: MKUDzRClKrtShLR+LljPVswPKew=
+
+Name: res/drawable-hdpi/btconn_off.xml
+SHA1-Digest: GICs9g3qmqb0vI/h+g5Hxq1PeWA=
+
+Name: res/layout-800x480/devicesets.xml
+SHA1-Digest: NC98XAYACmXCmNW8wpb2U3D4lyw=
+
+Name: res/drawable/bg_edittext_focused.xml
+SHA1-Digest: L/gDmjBxugERG2t0duh7UpZjRxU=
+
+Name: res/drawable-hdpi/bt_s_01.png
+SHA1-Digest: ApGEpYnbVqVj51dCSTUL8YgJhg8=
+
+Name: res/drawable-hdpi/btser02.png
+SHA1-Digest: cbYxuDGm1PV6afD7B7VM+8ju62w=
+
+Name: res/drawable-hdpi/delete_htc.xml
+SHA1-Digest: e6vgCjDZ+fGh7VjHh4ecQI6QUVQ=
+
+Name: res/drawable-hdpi/yuanhuan.png
+SHA1-Digest: ZY2ljrwJMxgpIDOs0sHpL94+3YA=
+
+Name: res/drawable-hdpi/bt_info_02.png
+SHA1-Digest: nXbcFTmrXT1KXPT42ur4VWfArfI=
+
+Name: res/drawable-hdpi/bt_2_01.png
+SHA1-Digest: 1A5pSXvEWGJXA5aa3KEjf7D/xRM=
+
+Name: res/drawable-hdpi/bt_s.xml
+SHA1-Digest: zZHTyUiwQQTtb6+q/dIvth8Xsho=
+
+Name: res/layout/dswifirows.xml
+SHA1-Digest: ISdk1pbcfh/SbA9Br7lPzuGC/AI=
+
+Name: res/drawable-hdpi/addbt_02.png
+SHA1-Digest: fEX99Au+aLhuin7OJSRsYwbDE2w=
+
+Name: res/layout-854x480/btconnecting.xml
+SHA1-Digest: itY/u+dr9WjntBJuU1rcDWj+Zos=
+
+Name: res/layout/wifirows.xml
+SHA1-Digest: UBVcQ++M9HWTdqembK9NROlxsw8=
+
+Name: res/drawable-hdpi/bt_minus_01.png
+SHA1-Digest: 7PRsVN77QI0DXZBiFYgv8uV822c=
+
+Name: res/layout-800x480/dialnumber.xml
+SHA1-Digest: lJJfwhtvRLYPoImtP2svXw7v8EI=
+
+Name: res/drawable-hdpi/bt_5_02.png
+SHA1-Digest: Sqo08t2vSkZNoQ6MOW2sJp29+yI=
+
+Name: res/drawable-hdpi/bt_8.xml
+SHA1-Digest: 0u7n2FTAhIIlXITN86ixHdor+n4=
+
+Name: res/drawable-hdpi/bt_r_01.png
+SHA1-Digest: Zd660+i2nqoyAWrVJjzn9SBnwKw=
+
+Name: res/layout/btconnecting.xml
+SHA1-Digest: itY/u+dr9WjntBJuU1rcDWj+Zos=
+
+Name: res/layout-1024x600/searchbluetooth.xml
+SHA1-Digest: wB3CnlWs4bHZ+znwjKt4xB0dqxU=
+
+Name: res/layout/nine_item.xml
+SHA1-Digest: vY1o84oHTzJhElZYErwjjCut1EA=
+
+Name: res/drawable-hdpi/bt_star_01.png
+SHA1-Digest: 0y3o+41esDXL08TT4BcfXaRUbuY=
+
